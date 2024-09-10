@@ -1,3 +1,3 @@
 # apnacollegedemo
 this is my first git repository.
-author- Tushar Singh
+<h1>Author- Tushar Singh</h1>
